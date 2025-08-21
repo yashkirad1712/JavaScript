@@ -47,7 +47,7 @@ const num2 = num1++;
 console.log(num1, "|" , num2)
 
 let num3 = 1
-const num4 = ++num3;
+const num4 = ++num3; 
 
 console.log(num3, "|" , num4)
 
