@@ -2,3 +2,5 @@
 
 //alert("Hello") // this is not used in nodejs , only in browser
 
+//NULL => object | return type null
+//undefined => when the variable is not initialize | gives undefined
